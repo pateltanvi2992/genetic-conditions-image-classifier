@@ -21,7 +21,7 @@ We used VGG Face-2 pretrained ResNet weights for initialization and ResNet-50 ar
 
 Reference paper: ZQ. Cao, L. Shen, W. Xie, O. M. Parkhi, A. Zisserman, VGGFace2: A dataset for recognising faces across pose and age, 2018.
 
-* Download VGGFace2 pretrained ResNet50 weights to the following directory: ```/models/weights/resnet50_ft_weight.pkl````[]
+* Download VGGFace2 pretrained ResNet50 weights to the following directory: ```/models/weights/resnet50_ft_weight.pkl"
    **Repository:** https://github.com/cydonia999/VGGFace2-pytorch \
    **G-Drive download link:** https://drive.google.com/file/d/1A94PAAnwk6L7hXdBXLFosB_s0SzEhAFU/view
 
