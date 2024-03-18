@@ -1,5 +1,5 @@
 # genetic-conditions-image-classifier
-  This repository contains official implementation of "Approximating facial expression effects on diagnostic accuracy via generative AI in medical genetics". 
+  This repository contains official implementation of classifer for "Approximating facial expression effects on diagnostic accuracy via generative AI in medical genetics". 
   We have used the code from official paper 
   > Ömer Sümer, Rebekah L. Waikel, Suzanna E. Ledgister Hanchard, Dat Duong, Cristina Conati, Peter Krawitz, Benjamin D. Solomon, and Elisabeth André, "Region-based Saliency Explanations on the Recognition of Facial Genetic Syndromes," Machine Learning for Healthcare, 2023.
 
