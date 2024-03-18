@@ -6,7 +6,7 @@
 You can access the metadata files to reproduce the database used in this study:
 NIH Facial Genetic Syndromes Database [(Zenodo dataset link)]([http://doi.org/10.5281/zenodo.8113907](https://doi.org/10.5281/zenodo.8113906))
 
-![genetic conditions distribusions]([https://raw.githubusercontent.com/pateltanvi2992/genetic-conditions-image-classifier/826056775458d4cfb163560dfe2bdc52cfcd184c/code/notebooks/fig-syndrome-distrobution-hist.svg?token=AK4OISLQSSGLPN2MYLEOLHLF7CFYW])
+![genetic conditions distribusions]([/code/notebooks/fig-syndrome-distrobution-hist.svg])
 
 ## Environment
 
