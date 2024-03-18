@@ -1,10 +1,13 @@
 # genetic-conditions-image-classifier
-  This repository contains official implementation of classifer for "Approximating facial expression effects on diagnostic accuracy via generative AI in medical genetics". 
-  We have used the code from official paper 
+  This repository contains official implementation of classifer for "Approximating facial expression effects on diagnostic accuracy via generative AI in medical genetics". It can classify total 11 conditions and unaffected individuals. 
+  We have used the code from official paper refernce : 
   > Ömer Sümer, Rebekah L. Waikel, Suzanna E. Ledgister Hanchard, Dat Duong, Cristina Conati, Peter Krawitz, Benjamin D. Solomon, and Elisabeth André, "Region-based Saliency Explanations on the Recognition of Facial Genetic Syndromes," Machine Learning for Healthcare, 2023.
 
 You can access the metadata files to reproduce the database used in this study:
 NIH Facial Genetic Syndromes Database [(Zenodo dataset link)]([http://doi.org/10.5281/zenodo.8113907](https://doi.org/10.5281/zenodo.8113906))
+
+![genetic conditions distribusions]([/code/notebooks/fig-syndrome-distrobution-hist.svg))
+
 ## Environment
 
 All required Python packages are listed in the ```ènvironment.yml````file. Create and activate Python environment
